@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI & Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nbikashchakma&label=Profile%20views&color=0e75b6&style=flat" alt="nbikashchakma" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nbikashchakma&label=Profile%20views&color=0e75b6&style=flat" alt="nbikashchakma" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nbikashchakma&show_icons=true&locale=en" alt="nbikashchakma" /></p>
