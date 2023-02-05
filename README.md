@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=nbikashchakma&show_icons=true&locale=en](https://github.com/NBikashChakma)" alt="nbikashchakma" /></p>
+  <p>&nbsp;<img align="center" src=https://github.com/NBikashChakma" alt="nbikashchakma" /></p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
