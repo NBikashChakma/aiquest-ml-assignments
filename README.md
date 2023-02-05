@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nbikashchakma&label=Profile%20views&color=0e75b6&style=flat" alt="nbikashchakma" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<a href=["https://getbootstrap.com](https://github.com/NBikashChakma)" target="_blank" rel="noreferrer">
+<a href=https://github.com/NBikashChakma" target="_blank" rel="noreferrer">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
