@@ -17,26 +17,26 @@ Deep Learning.
 ● All about ML Algorithms.
 ● Data Science Job Market.
 
-<b>Software Installation:</b>
+<b>Software Installation:</b><br>
 ● Python
 ● Jupyter Notebook
 <b>Basic Python:</b>
 ● Input / Output Functions
 ● Variables
-<b>Variables Data Structures: -</b>
+<b>Variables Data Structures: -</b><br>
 ● Python Data Structures
 ● Lists
 ● Tuples
 ● Functions
 
-<b>Data Structures: -</b>
+<b>Data Structures: -</b><br>
 ● Python Arrays
 ● Sets
 ● Dictionaries
 ● Data Frame Loop & Condition:
 • Loops (for, while)
 • Python Conditions (if,elif,else)
-<b>Discussion on Important Libraries: -</b>
+<b>Discussion on Important Libraries: -</b><br>
 ● NumPy
 ● Pandas
 ● Vaex
@@ -66,7 +66,7 @@ Deep Learning.
 ▪ Future Value Prediction
 ▪ Assignment (Real Data Set)
 
-<b>Feature Engineering:</b>
+<b>Feature Engineering:</b><br>
 ▪ Different Types of Variables
 ▪ Work with Categorical Variables
 ▪ Measure of Central Tendency-
@@ -77,8 +77,4 @@ Deep Learning.
 ▪ One Hot Encoding with Python
 ▪ Theory of Label Encoding
 ▪ Label Encoding with Python
-▪ Theory of Ordinal Encoding
-▪ Ordinal Encoding with Python
-▪ Mean or Target Encoding
-▪ Mean or Target Encoding with Python
-▪ Assignment (Real Data Set)
+▪ Theory of Ordinal 
