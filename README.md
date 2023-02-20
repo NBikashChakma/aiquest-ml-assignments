@@ -268,43 +268,42 @@ Python.
 
 # Module 06: Unsupervised Learning
 <b>Cluster Algorithms:</b><br>
-• What is Unsupervised Learning?
-• Types of Clusters.
-• Theory of K-Means Cluster Algorithm.
-• Single & Multiple Variable Cluster.
-• K-Means Cluster with Python.
-• Hierarchical Clustering.
-• Optimal Number of Cluster Selection.
-• Elbow Method.
-• Elbow Method with Python.
-• Simple ML Project: Market Basket Analysis.
-• Assignment (Real Data Set) <br>
+● What is Unsupervised Learning?
+● Types of Clusters.
+● Theory of K-Means Cluster Algorithm.
+● Single & Multiple Variable Cluster.
+● K-Means Cluster with Python.
+● Hierarchical Clustering.
+● Optimal Number of Cluster Selection.
+● Elbow Method.
+● Elbow Method with Python.
+● Simple ML Project: Market Basket Analysis.
+● Assignment (Real Data Set) <br>
 
 # Module 07: Deep Learning
 <b>Neural Network:</b><br>
-• All about Neural Network
+● All about Neural Network
 Class 21
-• Tensorflow vs Pytorch
-• What is Deep Learning?
-• Types of Neural Network
-• What is Neuron?
-• Human Brain Vs Artificial Neuron
-• All about Artificial Neural Network (ANN)
-• All about Convolutional Neural Network (CNN)
-• Kernels, Relu, Convolution
-• Data Augmentations <br>
+● Tensorflow vs Pytorch
+● What is Deep Learning?
+● Types of Neural Network
+● What is Neuron?
+● Human Brain Vs Artificial Neuron
+● All about Artificial Neural Network (ANN)
+● All about Convolutional Neural Network (CNN)
+● Kernels, Relu, Convolution
+● Data Augmentations <br>
 
 # Module 08: Final
 <b>Guidelines:</b>
-• Scope of Higher Studies in Data Science.
-• Guide to be a Good Programmer.
-• Sharing Experience for Data Science Journey.
-• Machine Learning for Future Research.
-• R for Data Science.
-• Kaggle Competitions.
-• ML Jobs, Resume & Salary.
-• ML Interview Questions
-
+● Scope of Higher Studies in Data Science.
+● Guide to be a Good Programmer.
+● Sharing Experience for Data Science Journey.
+● Machine Learning for Future Research.
+● R for Data Science.
+● Kaggle Competitions.
+● ML Jobs, Resume & Salary.
+● ML Interview Questions
 
 
 
