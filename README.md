@@ -77,7 +77,28 @@
 ▪ One Hot Encoding with Python
 ▪ Theory of Label Encoding
 ▪ Label Encoding with Python
-▪ Theory of Ordinal 
+▪ Theory of Label Encoding
+▪ Label Encoding with Python
+▪ Theory of Ordinal Encoding
+▪ Ordinal Encoding with Python
+▪ Mean or Target Encoding
+▪ Mean or Target Encoding with Python
+▪ Assignment (Real Data Set) <br>
+
+<b>Feature Engineering:</b><br>
+• What is Feature Scaling?
+• Techniques of Feature Scaling in Machine Learning
+• Theory of Normalization
+• Normalization with Python
+• Standardization
+• Standardization with Python
+• Theory of Robust Scaler
+• Robust Scaler with Python
+• Theory of Logarithmic Transformation
+• Logarithmic Transformation with Python
+• Theory of Reciprocal Transformation
+• Reciprocal Transformation with Python
+• Assignment (Real Data Set) <br>
 
 <b>All About Multiple Variable Linear Regression:</b><br>
 ● All about Gradient Decent in ML
