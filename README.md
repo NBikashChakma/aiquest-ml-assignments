@@ -18,8 +18,8 @@
 
 <b>Software Installation:</b><br>
 ● Python
-● Jupyter Notebook
-● Anaconda <br>
+● Anaconda 
+● Jupyter Notebook <br>
 <b>Basic Python:</b><br>
 ● Input / Output Functions
 ● Variables <br>
@@ -130,11 +130,160 @@ Hyper Parameter Tuning in Machine Learning:
 ● Grid Search for Classification
 ● Genetic Algorithm  <br>
 
-<br>Logistic Regression: </b><br>
+<b>Logistic Regression: </b><br>
 ● What is Logistic Regression?
 ● What is Sigmoid Function?
 ● In Depth Mathematics Behind Logistics Regression Algorithm.
 ● Logistic Regression with Python
 ● Linear Regression Vs Logistic Regression
 ● Simple ML Project: Heart Attack Prediction with Python & ML
-● Assignment (Real Data Set)
+● Assignment (Real Data Set) <br>
+
+<b>Feature Engineering:</b> <br>
+● What is Feature Selection in Machine Learning?
+● Theory of Principle Component Analysis.
+● Principle Component Analysis with Python.
+● Different Types of Feature Selection Methods.
+● Chi Square Test with Python.
+● Select KBest.
+● Select kBest with Python.
+● Correlation Matrix.
+● Correlation Matrix with Heatmap.
+● Imbalance Dataset
+● Feature Sampling using SMOTETomek
+● Under Sampling using NearMiss
+● Over Sampling using RandomOverSampler
+● Assignment (Real Data Set). <br>
+
+<b>All about K-Nearest Neighbors:</b><br>
+● What is KNN Algorithm?
+● Euclidean Distance Formula.
+● KNN for Classification.
+● KNN for Regression.
+● In Depth Mathematics Behind K-Nearest Neighbors (KNN)
+Algorithm.
+● KNN Regressor vs KNN-Classifier.
+● Tuning: KNN Regress and KNN Classifier
+● Implementing KNN with Python
+● Assignment (Real Data Set <br>
+
+<b>Important Statistical Analysis:</b><br>
+● Hypothesis Testing (Type 1 & Type 2 Error.
+● What is Analysis of Variance (ANOVA)?
+● Example of ANOVA Test.
+● What is T-Test?
+● Example of T Test.
+● ANOVA Vs T-Test.
+● P Value, T-test, ANOVA When to Use What, Implementation with
+Python.
+● Z Score Statistics.
+● All About Correlation Analysis.
+● Normal Distribution
+● Removing Outliers with Python <br>
+
+<b>All about Cross Validation:</b> <br>
+● What is Cross Validation in Machine Learning?
+● Cross Validation Techniques.
+● Theory of K Fold Cross Validation.
+● Hold Out Cross Validation
+● K-Fold Cross Validation
+● Leave One-Out Cross Validation (LOOCV)
+● Stratified K Fold Cross Validation
+● Train Test Split Vs K Fold CV.
+● Assignment (Real Data Set). <br>
+
+<b>All about Support Vector Machine:</b><br>
+• Theory of Support Vector Machine (SVM) in Machine Learning.
+• Hyperplanes and Support Vectors.
+• Math Behind SVM.
+• SVM Kernels
+• Assignment (Real Data Set)
+• SVM for Linear Data
+• SVM for Non-Linear Data
+• SVM Implementation with Python.<br>
+
+# Module 05: Basic Natural Language Processing (NLP)
+<b>Feature Engineering:</b> <br>
+● What is Feature Extraction Techniques?
+● Bag of Words Model in NLP.
+● What is Count Vectorizer?
+● Count Vectorizer with Python.
+● What is Tfidf Vectorizer?
+● Tfidf Vectorizer with Python.
+● What is Hashing Vectorizer?
+● Hashing Vectorizer with Python.
+● What is Word2vec?
+● Word2vec with Python.
+● Countvectorizer vs Tfidfvectorizer vs Hashing
+● Uses of Vectorizer in NLP.
+● Use of Natural Language Toolkit in NLP (NLTK)
+● Lemmatisation in NLP
+● WordNetLemmatizer in NLP
+● Stemming in NLP
+● PorterStemmer in NLP
+● Assignment (Real Data Set) <br>
+
+<b>All about Naïve Bayes:</b><br>
+● What is Bayes Theorem?
+● Statistics & Probability
+● Statistics & Probability with Python
+● Naïve Bayes Algorithm
+● Naïve Bayes Algorithm with Python
+● Naïve Bayes for Text Classification
+● Gaussian NB, Bernoulli NB, MultiNomial NB
+● Simple ML Project: Spam Comments Classification with Python
+● Assignment (Real Data Set) <br>
+
+<b>All about Xgboost & Adaboost:</b><br>
+● Why Ensemble Learning?
+● What is Bagging?
+● Why Boosting?
+● Math Behind Xgboost Classifier and Regressor?
+● Xgboost with Python
+● All about Adaboost
+● Math Behind Adaboost
+● Adaboost with Python
+● Assignment on Xgboost and Adaboost <br>
+
+# Module 06: Unsupervised Learning
+<b>Cluster Algorithms:</b><br>
+• What is Unsupervised Learning?
+• Types of Clusters.
+• Theory of K-Means Cluster Algorithm.
+• Single & Multiple Variable Cluster.
+• K-Means Cluster with Python.
+• Hierarchical Clustering.
+• Optimal Number of Cluster Selection.
+• Elbow Method.
+• Elbow Method with Python.
+• Simple ML Project: Market Basket Analysis.
+• Assignment (Real Data Set) <br>
+
+# Module 07: Deep Learning
+<b>Neural Network:</b><br>
+• All about Neural Network
+Class 21
+• Tensorflow vs Pytorch
+• What is Deep Learning?
+• Types of Neural Network
+• What is Neuron?
+• Human Brain Vs Artificial Neuron
+• All about Artificial Neural Network (ANN)
+• All about Convolutional Neural Network (CNN)
+• Kernels, Relu, Convolution
+• Data Augmentations <br>
+
+# Module 08: Final
+<b>Guidelines:</b>
+• Scope of Higher Studies in Data Science.
+• Guide to be a Good Programmer.
+• Sharing Experience for Data Science Journey.
+• Machine Learning for Future Research.
+• R for Data Science.
+• Kaggle Competitions.
+• ML Jobs, Resume & Salary.
+• ML Interview Questions
+
+
+
+
