@@ -1,6 +1,6 @@
 # Data Science & Machine Learning
 # Module 01: Introduction & Basic Python
-<p style="color: blue;">Important Discussion on:</p> <br>
+<b>Important Discussion on:</b> <br>
 ● What is Data Science?
 ● What is Machine Learning?
 ● Data Science Venn Diagram.
@@ -16,4 +16,34 @@ Deep Learning.
 ● Supervised vs Unsupervised.
 ● All about ML Algorithms.
 ● Data Science Job Market.
+
+<b>Software Installation:</b>
+● Python
+● Jupyter Notebook
+<b>Basic Python:</b>
+● Input / Output Functions
+● Variables
+<b>Variables Data Structures: -</b>
+● Python Data Structures
+● Lists
+● Tuples
+● Functions
+
+<b>Data Structures: -</b>
+● Python Arrays
+● Sets
+● Dictionaries
+● Data Frame Loop & Condition:
+• Loops (for, while)
+• Python Conditions (if,elif,else)
+<b>Discussion on Important Libraries: -</b>
+● NumPy
+● Pandas
+● Vaex
+● Matplotlib
+● Seaborn
+● Scikit Learn
+● Keras
+● TensorFlow
+● Pytorch
 
