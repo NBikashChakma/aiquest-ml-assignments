@@ -47,7 +47,7 @@ Deep Learning.
 ● TensorFlow
 ● Pytorch
 # Module 02: Regression & Feature Engineering
-<b>All About Single Variable Linear Regression:</b>
+<b>All About Single Variable Linear Regression:</b><br>
 ▪ What is Linear Regression?
 ▪ Uses of Linear Regression in Real Life.
 ▪ Straight Line
@@ -64,4 +64,21 @@ Deep Learning.
 ▪ Analysis Data with Matplotlib
 ▪ Implement Single Variable Linear Regression with Python and Real Dataset
 ▪ Future Value Prediction
+▪ Assignment (Real Data Set)
+
+<b>Feature Engineering:</b>
+▪ Different Types of Variables
+▪ Work with Categorical Variables
+▪ Measure of Central Tendency-
+▪ Mean
+▪ Median
+▪ Mode
+▪ Theory of One Hot Encoding
+▪ One Hot Encoding with Python
+▪ Theory of Label Encoding
+▪ Label Encoding with Python
+▪ Theory of Ordinal Encoding
+▪ Ordinal Encoding with Python
+▪ Mean or Target Encoding
+▪ Mean or Target Encoding with Python
 ▪ Assignment (Real Data Set)
