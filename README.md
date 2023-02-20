@@ -20,10 +20,10 @@ Deep Learning.
 <b>Software Installation:</b><br>
 ● Python
 ● Jupyter Notebook
-● Anaconda
+● Anaconda <br>
 <b>Basic Python:</b><br>
 ● Input / Output Functions
-● Variables
+● Variables <br>
 <b>Variables Data Structures: -</b><br>
 ● Python Data Structures
 ● Lists
@@ -36,7 +36,7 @@ Deep Learning.
 ● Dictionaries
 ● Data Frame Loop & Condition:
 • Loops (for, while)
-• Python Conditions (if,elif,else)
+• Python Conditions (if,elif,else) <br>
 <b>Discussion on Important Libraries: -</b><br>
 ● NumPy
 ● Pandas
