@@ -20,7 +20,8 @@ Deep Learning.
 <b>Software Installation:</b><br>
 ● Python
 ● Jupyter Notebook
-<b>Basic Python:</b>
+● Anaconda
+<b>Basic Python:</b><br>
 ● Input / Output Functions
 ● Variables
 <b>Variables Data Structures: -</b><br>
