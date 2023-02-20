@@ -86,19 +86,19 @@
 ▪ Assignment (Real Data Set) <br>
 
 <b>Feature Engineering:</b><br>
-• What is Feature Scaling?
-• Techniques of Feature Scaling in Machine Learning
-• Theory of Normalization
-• Normalization with Python
-• Standardization
-• Standardization with Python
-• Theory of Robust Scaler
-• Robust Scaler with Python
-• Theory of Logarithmic Transformation
-• Logarithmic Transformation with Python
-• Theory of Reciprocal Transformation
-• Reciprocal Transformation with Python
-• Assignment (Real Data Set) <br>
+● What is Feature Scaling?
+● Techniques of Feature Scaling in Machine Learning
+● Theory of Normalization
+● Normalization with Python
+● Standardization
+● Standardization with Python
+● Theory of Robust Scaler
+● Robust Scaler with Python
+● Theory of Logarithmic Transformation
+● Logarithmic Transformation with Python
+● Theory of Reciprocal Transformation
+● Reciprocal Transformation with Python
+● Assignment (Real Data Set) <br>
 
 <b>All About Multiple Variable Linear Regression:</b><br>
 ● All about Gradient Decent in ML
@@ -214,14 +214,14 @@ Python.
 ● Assignment (Real Data Set). <br>
 
 <b>All about Support Vector Machine:</b><br>
-• Theory of Support Vector Machine (SVM) in Machine Learning.
-• Hyperplanes and Support Vectors.
-• Math Behind SVM.
-• SVM Kernels
-• Assignment (Real Data Set)
-• SVM for Linear Data
-• SVM for Non-Linear Data
-• SVM Implementation with Python.<br>
+● Theory of Support Vector Machine (SVM) in Machine Learning.
+● Hyperplanes and Support Vectors.
+● Math Behind SVM.
+● SVM Kernels
+● Assignment (Real Data Set)
+● SVM for Linear Data
+● SVM for Non-Linear Data
+● SVM Implementation with Python.<br>
 
 # Module 05: Basic Natural Language Processing (NLP)
 <b>Feature Engineering:</b> <br>
