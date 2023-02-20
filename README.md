@@ -1,6 +1,6 @@
 # Data Science & Machine Learning
 # Module 01: Introduction & Basic Python
-<b style="color=red">Important Discussion on:</b>
+<b style="color: red">Important Discussion on:</b> <br>
 ● What is Data Science?
 ● What is Machine Learning?
 ● Data Science Venn Diagram.
