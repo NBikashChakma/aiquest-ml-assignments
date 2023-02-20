@@ -46,4 +46,22 @@ Deep Learning.
 ● Keras
 ● TensorFlow
 ● Pytorch
-
+# Module 02: Regression & Feature Engineering
+<b>All About Single Variable Linear Regression:</b>
+▪ What is Linear Regression?
+▪ Uses of Linear Regression in Real Life.
+▪ Straight Line
+▪ Curve Line
+▪ Slope
+▪ Intercept
+▪ Math: In Depth Intuition of Linear Regression
+▪ Cost Function
+▪ Lose Function
+▪ Mean Absolute Error (MAE)
+▪ Mean Squared Error (MSE)
+▪ Minimizing the Cost: Gradient Decent Algorithm
+▪ Create Data Set in CSV Format
+▪ Analysis Data with Matplotlib
+▪ Implement Single Variable Linear Regression with Python and Real Dataset
+▪ Future Value Prediction
+▪ Assignment (Real Data Set)
