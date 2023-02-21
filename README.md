@@ -1,4 +1,4 @@
-# Data Science & Machine Learning
+# Data Science & Machine Learning With Python
 # Module 01: Introduction & Basic Python
 <b>Important Discussion on:</b> <br>
 ● What is Data Science?
